@@ -1,0 +1,34 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color:firebrick;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    color:black;
+
+}
+
+li {
+    text-align: center;
+    color: black;
+}
+
+p { 
+    text-align: center;
+    color: black;
+}
+
+ul {
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
